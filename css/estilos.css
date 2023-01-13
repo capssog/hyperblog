@@ -1,3 +1,11 @@
+
+#post
+{
+    background: white;
+    padding: 1em;
+}
+
+
 body
 {
     background: #1e1f24;
@@ -45,8 +53,11 @@ body
 {
     font-size: 20px;
 }
-#post
+
+#footer
 {
-    background: white;
-    padding: 1em;
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
